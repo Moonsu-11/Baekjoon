@@ -1,5 +1,3 @@
-// https://luv-n-interest.tistory.com/1118 얘랑 똑같은데 왜 난 안됨?
-
 #include <iostream>
 using namespace std;
 
